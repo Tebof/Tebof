@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Thibaut , it is pronounced 'TEBO' like the football player ! im excited to do that bootcamp , see you soon 👋
 
 <!--
 **Tebof/Tebof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
